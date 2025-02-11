@@ -1,21 +1,23 @@
-img{
-width: 200px;
+img {
+    width: 200px;
 }
 
-.cabecalho{
-width: 1000px;
-height: 100;
-background-color: rgb(11, 133, 189);
+.cabecalho {
+    width: 1000px;
+    height: 100;
+    background-color: rgb(11, 133, 189);
 
 }
-.primeirasecao{
 
-width: 1000px;
-height: 500;
-background-color: rgb(255, 255, 255);
+.primeirasecao {
+    display: flex;
+    width: 1000px;
+    height: 500;
+    background-color: rgb(255, 255, 255);
 }
-.divisao{
-width: 1000px;
-height: 100;
-background-color: rgb(255, 94, 0);
+
+.divisao {
+    width: 1000px;
+    height: 100;
+    background-color: rgb(255, 94, 0);
 }
