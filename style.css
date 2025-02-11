@@ -10,7 +10,12 @@ background-color: rgb(11, 133, 189);
 }
 .primeirasecao{
 
-    width: 1000px;
+width: 1000px;
 height: 500;
 background-color: rgb(255, 255, 255);
+}
+.divisao{
+width: 1000px;
+height: 100;
+background-color: rgb(255, 94, 0);
 }
